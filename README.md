@@ -1,5 +1,9 @@
 # Practice - PWA
 
+Deployed page:
+
+<https://kem198.github.io/practice-pwa/>
+
 ## References
 
 - [プログレッシブウェブアプリ (PWA) \| MDN](https://developer.mozilla.org/ja/docs/Web/Progressive_web_apps)
