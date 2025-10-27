@@ -1,5 +1,5 @@
 {
-  "name": "My PWA",
+  "name": "Practice - PWA",
   "display": "standalone",
   "start_url": "/",
   "icons": [
