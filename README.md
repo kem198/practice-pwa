@@ -2,7 +2,7 @@
 
 Deployed page:
 
-<https://kem198.github.io/practice-pwa/>
+- <https://kem198.github.io/practice-pwa/>
 
 ## References
 
